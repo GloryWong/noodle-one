@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.3](https://github.com/GloryWong/noodle-one/compare/v3.2.2...v3.2.3) (2024-12-16)
+
+
+### Bug Fixes
+
+* **deps:** update all non-major dependencies ([#81](https://github.com/GloryWong/noodle-one/issues/81)) ([13fe79a](https://github.com/GloryWong/noodle-one/commit/13fe79adfe7ca5887df9f2a119cc551c95e74ec8))
+
 ## [3.2.2](https://github.com/GloryWong/noodle-one/compare/v3.2.1...v3.2.2) (2024-09-06)
 
 
