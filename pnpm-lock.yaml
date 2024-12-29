@@ -24,7 +24,7 @@ importers:
         specifier: ^7.5.8
         version: 7.5.8
       chalk:
-        specifier: ^5.4.0
+        specifier: ^5.4.1
         version: 5.4.1
       check-git-clean:
         specifier: ^1.0.0
@@ -63,8 +63,8 @@ importers:
         specifier: ^9.1.0
         version: 9.1.0
       type-fest:
-        specifier: ^4.30.2
-        version: 4.30.2
+        specifier: ^4.31.0
+        version: 4.31.0
       untildify:
         specifier: ^5.0.0
         version: 5.0.0
@@ -2832,8 +2832,8 @@ packages:
     resolution: {integrity: sha512-4dbzIzqvjtgiM5rw1k5rEHtBANKmdudhGyBEajN01fEyhaAIhsoKNy6y7+IN93IfpFtwY9iqi7kD+xwKhQsNJA==}
     engines: {node: '>=8'}
 
-  type-fest@4.30.2:
-    resolution: {integrity: sha512-UJShLPYi1aWqCdq9HycOL/gwsuqda1OISdBO3t8RlXQC4QvtuIz4b5FCfe2dQIWEpmlRExKmcTBfP1r9bhY7ig==}
+  type-fest@4.31.0:
+    resolution: {integrity: sha512-yCxltHW07Nkhv/1F6wWBr8kz+5BGMfP+RbRSYFnegVb0qV/UMT0G0ElBloPVerqn4M2ZV80Ir1FtCcYv1cT6vQ==}
     engines: {node: '>=16'}
 
   typescript@5.7.2:
@@ -5440,7 +5440,7 @@ snapshots:
     dependencies:
       '@babel/code-frame': 7.24.7
       index-to-position: 0.1.2
-      type-fest: 4.30.2
+      type-fest: 4.31.0
 
   path-exists@4.0.0: {}
 
@@ -5525,7 +5525,7 @@ snapshots:
       '@types/normalize-package-data': 2.4.4
       normalize-package-data: 6.0.2
       parse-json: 8.1.0
-      type-fest: 4.30.2
+      type-fest: 4.31.0
       unicorn-magic: 0.1.0
 
   readdirp@3.6.0:
@@ -5811,7 +5811,7 @@ snapshots:
 
   type-fest@0.8.1: {}
 
-  type-fest@4.30.2: {}
+  type-fest@4.31.0: {}
 
   typescript@5.7.2: {}
 
@@ -5973,7 +5973,7 @@ snapshots:
       deepmerge-ts: 7.1.0
       read-pkg: 9.0.1
       sort-keys: 5.0.0
-      type-fest: 4.30.2
+      type-fest: 4.31.0
       write-json-file: 6.0.0
 
   xml-name-validator@4.0.0: {}
