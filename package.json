@@ -63,7 +63,7 @@
     "readdirp": "^3.6.0",
     "semver": "^7.6.3",
     "squirrelly": "^9.1.0",
-    "type-fest": "^4.31.0",
+    "type-fest": "^4.32.0",
     "untildify": "^5.0.0",
     "write-package": "^7.1.0"
   },
@@ -74,7 +74,7 @@
     "@tsconfig/node20": "^20.1.4",
     "@types/jest": "^29.5.14",
     "@types/mock-fs": "^4.13.4",
-    "@types/node": "^20.17.11",
+    "@types/node": "^20.17.12",
     "@vitest/coverage-istanbul": "^2.1.8",
     "eslint": "^9.17.0",
     "lint-staged": "^15.3.0",
@@ -82,7 +82,7 @@
     "rimraf": "^6.0.1",
     "simple-git-hooks": "^2.11.1",
     "tsx": "^4.19.2",
-    "typescript": "^5.7.2",
+    "typescript": "^5.7.3",
     "vitest": "^2.1.8"
   },
   "simple-git-hooks": {
