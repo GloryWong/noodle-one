@@ -52,7 +52,7 @@
     "@types/semver": "^7.5.8",
     "chalk": "^5.4.1",
     "check-git-clean": "^1.0.0",
-    "commander": "^12.1.0",
+    "commander": "^13.1.0",
     "deepmerge": "^4.3.1",
     "fs-extra": "^11.2.0",
     "giget": "^1.2.3",
