@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.2.3](https://github.com/GloryWong/noodle-one/compare/v3.2.2...v3.2.3) (2025-04-03)
+
+
+### Bug Fixes
+
+* **deps:** update all non-major dependencies ([#81](https://github.com/GloryWong/noodle-one/issues/81)) ([13fe79a](https://github.com/GloryWong/noodle-one/commit/13fe79adfe7ca5887df9f2a119cc551c95e74ec8))
+* **deps:** update all non-major dependencies ([#83](https://github.com/GloryWong/noodle-one/issues/83)) ([4645f30](https://github.com/GloryWong/noodle-one/commit/4645f30d72350b5249e5297a0a3a957d77dc1493))
+* **deps:** update all non-major dependencies ([#86](https://github.com/GloryWong/noodle-one/issues/86)) ([8619891](https://github.com/GloryWong/noodle-one/commit/86198919a82c6c00692462e3189fcd0f1fbb4599))
+* **deps:** update all non-major dependencies ([#89](https://github.com/GloryWong/noodle-one/issues/89)) ([cb88d91](https://github.com/GloryWong/noodle-one/commit/cb88d9136dc4dc553958c4cbbf40686c53329186))
+* **deps:** update dependency giget to v2 ([134b9d1](https://github.com/GloryWong/noodle-one/commit/134b9d184d46a571ade8258686e0bcda2e6cb7ec))
+* **deps:** update dependency giget to v2 ([463c69f](https://github.com/GloryWong/noodle-one/commit/463c69f025bef55bf9709e20c68e2153d55bb434))
+
 ## [3.2.2](https://github.com/GloryWong/noodle-one/compare/v3.2.1...v3.2.2) (2024-09-06)
 
 
