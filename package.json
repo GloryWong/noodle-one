@@ -75,7 +75,7 @@
     "@types/jest": "^29.5.14",
     "@types/mock-fs": "^4.13.4",
     "@types/node": "^20.17.12",
-    "@vitest/coverage-istanbul": "^2.1.8",
+    "@vitest/coverage-istanbul": "^3.1.1",
     "eslint": "^9.17.0",
     "lint-staged": "^15.3.0",
     "mock-fs": "^5.4.1",
@@ -83,7 +83,7 @@
     "simple-git-hooks": "^2.11.1",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3",
-    "vitest": "^2.1.8"
+    "vitest": "^3.1.1"
   },
   "simple-git-hooks": {
     "pre-commit": "pnpm lint-staged",
