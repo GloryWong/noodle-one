@@ -12,6 +12,10 @@
 ![NPM Downloads](https://img.shields.io/npm/dw/noodle-one)
 ![Node Current](https://img.shields.io/node/v/noodle-one)
 
+---
+Deprecated! Use [proyecto](https://github.com/GloryWong/proyecto) instaed.
+---
+
 # noodle-one
 
 Noodle a project
